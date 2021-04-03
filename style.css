@@ -1,0 +1,38 @@
+.wishbtn {
+    border: 2px solid gray;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+
+.cartbtn{
+    border: 2px solid black;
+  background-color:black;
+  color:white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+* { box-sizing: border-box; }
+
+.carousel {
+  background: #EEE;
+}
+
+.botc{
+    height: 120px;
+}
+
+.carousel-cell {
+  width: 28%;
+  height: 120px;
+  margin-right: 10px;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+}
+
