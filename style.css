@@ -5,6 +5,9 @@ body,html{
   padding: 0% !important;
 }
 
+h1{
+  font-family: 'Londrina Solid', cursive;
+}
 
 .wishbtn {
     border: 2px solid gray;
